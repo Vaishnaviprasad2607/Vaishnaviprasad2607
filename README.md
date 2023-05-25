@@ -5,7 +5,9 @@
 Here are some ideas to get you started:
 -->
  👋 Hi there,I am Vaishnavi Prasad
+ 
  🌱 I’m currently learning BE in Computer Science
+ 
  📫 How to reach me prasadvaishnavi2@gmail.com
 
 
